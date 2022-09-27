@@ -1,31 +1,60 @@
 <div align="center">
 
-# CC-Template-Repository
+# Player Indicator
 
-A ... component that does x.
+[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-Player-Indicator/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-Player-Indicator/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-Player-Indicator?style=plastic)
 
-[![Build Status](https://github.com/Core-Team-META/CC-Template-Repository/workflows/CI/badge.svg)](https://github.com/Core-Team-META/CC-Template-Repository/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Core-Team-META/CC-Template-Repository?style=plastic)
-
-![TitleCard](/Screenshots/REPLACE_ME.png)
+![Preview](/Screenshots/Main.png)
 
 </div>
 
+## Finding the Component
+
+This component can be found under the **CoreAcademy** account on Community Content.
+
 ## Overview
 
-Description
+The Player Indicator component will add an indicator above all player's heads in the game so that players can easily find where other players are in the game. This is useful for open-world games where finding players can improve the experience for the player themselves. It also helps make the world feel active.
 
-## Setup
+## How to use
 
-Setup
+Drop the Player Indicator component into the Hierarchy.
 
-## Credits
+There are several custom properties on the root of the template that can be changed.
 
-- List
-- of
-- people
+- **EdgeOffset**
 
-## How to use this Template
+	The distance the icon is from the edge of the screen.
 
-- Replace every mention of `CC-Template-Repository` with your new repository name.
-- Replace every mention of `REPLACE_ME` with the correct values.
+- **WorldOffset**
+
+	Distance above the player's head.
+
+- **Icon**
+
+	The template to use for this component.
+
+- **IconWidth**
+
+	The width of the icon.
+
+- **IconHeight**
+
+	The height of the icon.
+
+- **BorderColor**
+
+	The border color of the icon.
+
+- **BackgroundColor**
+
+	The background color of the icon. If RandomColor is enabled, then a color from the Colors table will be used instead.
+
+- **RandomColor**
+
+	If enabled, then a random color from the Colors table will be used.
+
+- **Colors**
+
+	A table of colors to use if RandomColor is enabled.

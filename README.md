@@ -2,8 +2,8 @@
 
 # Player Indicator
 
-[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-Player-Indicator/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-Player-Indicator/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-Player-Indicator?style=plastic)
+[![Build Status](https://github.com/ManticoreGamesInc/CC-Player-Indicator/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/CC-Player-Indicator/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/CC-Player-Indicator?style=plastic)
 
 ![Preview](/Screenshots/Main.png)
 

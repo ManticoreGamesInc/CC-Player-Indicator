@@ -1,19 +1,24 @@
 --[[
-  _____  _                         _____           _ _           _             
- |  __ \| |                       |_   _|         | (_)         | |            
- | |__) | | __ _ _   _  ___ _ __    | |  _ __   __| |_  ___ __ _| |_ ___  _ __ 
+  _____  _                         _____           _ _           _
+ |  __ \| |                       |_   _|         | (_)         | |
+ | |__) | | __ _ _   _  ___ _ __    | |  _ __   __| |_  ___ __ _| |_ ___  _ __
  |  ___/| |/ _` | | | |/ _ \ '__|   | | | '_ \ / _` | |/ __/ _` | __/ _ \| '__|
- | |    | | (_| | |_| |  __/ |     _| |_| | | | (_| | | (_| (_| | || (_) | |   
- |_|    |_|\__,_|\__, |\___|_|    |_____|_| |_|\__,_|_|\___\__,_|\__\___/|_|   
-                  __/ |                                                        
-                 |___/  
+ | |    | | (_| | |_| |  __/ |     _| |_| | | | (_| | | (_| (_| | || (_) | |
+ |_|    |_|\__,_|\__, |\___|_|    |_____|_| |_|\__,_|_|\___\__,_|\__\___/|_|
+                  __/ |
+                 |___/
 -------------------------------------------------------------------------------
 
 The Player Indicator component will add an indicator above all player's heads in the game so that players
-can easily find where other players are in the game. This is useful for open world games where finding 
+can easily find where other players are in the game. This is useful for open world games where finding
 players can improve the experience for the player themself. It also helps make the world feel active.
 
 -----------------------------------------------------------------------------------------------------------------
+====
+NOTE
+====
+
+If the Dependent folders are empty in Project Content under Imported Content for this component, save and reload the project to fix it.
 
 ==========
 How to use
